@@ -1,0 +1,29 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f0f4f8;
+text-align: center;
+margin: 0;
+padding: 30px;
+}
+.container {
+background-color: white;
+max-width: 600px;
+margin: auto;
+padding: 30px;
+border-radius: 15px;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+img {
+border-radius: 50%;
+object-fit: cover;
+}
+h1 {
+color: #2563eb;
+}
+h2 {
+color: #333333;
+}
+p {
+color: #555555;
+font-size: 17px;
+}
